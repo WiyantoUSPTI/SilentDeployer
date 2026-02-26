@@ -1,8 +1,11 @@
-<img width="150" height="150" alt="SilentDeployer logo" src="https://github.com/user-attachments/assets/4f7f0d3a-596c-4b96-b974-fdd589eb9159" />
-# Silent Deployer
+<div align="center">
+<img width="1000" height="1000" alt="SilentDeployer logo" src="https://github.com/user-attachments/assets/a3b9fd4f-1a9a-48f1-93c2-3ed31c4defaa" />
+
+# SilentDeployer
+
 Enterprise-Grade Zero-Touch Deployment Utility for Windows
 
-
+</div>
 
 SilentDeployer adalah utilitas otomasi instalasi perangkat lunak berbasis antarmuka grafis (GUI) Python yang dirancang khusus untuk lingkungan IT Enterprise. Aplikasi ini mengorkestrasi mass-deployment pada unit komputer/laptop baru (Fresh Install Windows) dengan menghasilkan dan mengeksekusi batch script secara 100% senyap di latar belakang.
 
