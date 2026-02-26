@@ -1,7 +1,7 @@
 <div align="center">
-<img width="1000" height="1000" alt="SilentDeployer logo" src="https://github.com/user-attachments/assets/a3b9fd4f-1a9a-48f1-93c2-3ed31c4defaa" />
+<img width="150" height="150" alt="SilentDeployer logo" src="https://github.com/user-attachments/assets/a3b9fd4f-1a9a-48f1-93c2-3ed31c4defaa" />
 
-# SilentDeployer
+SilentDeployer
 
 Enterprise-Grade Zero-Touch Deployment Utility for Windows
 
